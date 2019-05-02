@@ -2,7 +2,6 @@
     "name": "henrypacodel/sw1prueba",
     "description": "Laravel 5 Roles and Permissions",
     "keywords": ["sw1prueba", "roles", "permissions", "auth", "laravel", "henrypaco"],
-    "license": "GPL",
     "authors": [{
         "name": "henry paco",
         "email": "henrypaquito90@gmail.com"
