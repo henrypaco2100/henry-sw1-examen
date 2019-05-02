@@ -1,6 +1,6 @@
 {
     "name": "henrypacodel/sw1prueba",
-    "description": "examne de sw1 Roles y Persmisos",
+    "description": "1er. Examen de sw1 Roles y Persmisos",
     "keywords": ["sw1prueba", "roles", "permissions", "auth", "laravel", "henrypaco"],
     "authors": [{
         "name": "henry paco",
